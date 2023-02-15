@@ -32,3 +32,4 @@ def index(request):
     return render(request, "index.html", {'dests': dests})
 
     ##return render(request, "index.html", {'dests': dests})
+    #test commint
